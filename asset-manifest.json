@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.187ec791.chunk.css",
+    "main.js": "/static/js/main.858225c9.chunk.js",
+    "main.js.map": "/static/js/main.858225c9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8bf9c574.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8bf9c574.js.map",
+    "static/css/2.400f043a.chunk.css": "/static/css/2.400f043a.chunk.css",
+    "static/js/2.16d873b0.chunk.js": "/static/js/2.16d873b0.chunk.js",
+    "static/js/2.16d873b0.chunk.js.map": "/static/js/2.16d873b0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.10709587850c43923efcb9661f0e26fc.js": "/precache-manifest.10709587850c43923efcb9661f0e26fc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.400f043a.chunk.css.map": "/static/css/2.400f043a.chunk.css.map",
+    "static/css/main.187ec791.chunk.css.map": "/static/css/main.187ec791.chunk.css.map",
+    "static/media/GitHub_Logo.png": "/static/media/GitHub_Logo.cefc2023.png",
+    "static/media/OrderUp.png": "/static/media/OrderUp.fe6f85d6.png",
+    "static/media/css-3.png": "/static/media/css-3.b848d5d9.png",
+    "static/media/fineDiningsite.png": "/static/media/fineDiningsite.93947f0f.png",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/javascript.png": "/static/media/javascript.a37eeddf.png",
+    "static/media/jquery.png": "/static/media/jquery.64dd08ca.png",
+    "static/media/matrix.png": "/static/media/matrix.ca20597f.png",
+    "static/media/mongodb.png": "/static/media/mongodb.b10b140c.png",
+    "static/media/mongoose.jpg": "/static/media/mongoose.38b4764b.jpg",
+    "static/media/mysql.png": "/static/media/mysql.9abfc316.png",
+    "static/media/node.png": "/static/media/node.92e54506.png",
+    "static/media/react.png": "/static/media/react.82a318cc.png",
+    "static/media/sk8ersite.png": "/static/media/sk8ersite.c4124798.png",
+    "static/media/socket.png": "/static/media/socket.288caf89.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bf9c574.js",
+    "static/css/2.400f043a.chunk.css",
+    "static/js/2.16d873b0.chunk.js",
+    "static/css/main.187ec791.chunk.css",
+    "static/js/main.858225c9.chunk.js"
+  ]
+}
